@@ -10,5 +10,6 @@ public class SpringIn5StepsApplication {
 		SpringApplication.run(SpringIn5StepsApplication.class, args);
 		System.out.println("Spring Container Started.");
 		System.out.println("Spring Container Ready");
+		System.out.println("Another sysout");
 	}
 }
